@@ -61,10 +61,10 @@ public class FPSController : MonoBehaviour
         // Player and Camera rotation
         if (canMove)
         {
-            _rotationX += -Input.GetAxis("Mouse Y") * lookSpeed;
+            _rotationX += -(Input.GetAxis("Mouse Y") + -Input.GetAxis("JoystickY")) * lookSpeed;
             _rotationX = Mathf.Clamp(_rotationX, -lookXLimit, lookXLimit);
             playerCamera.transform.localRotation = Quaternion.Euler(_rotationX, 0, 0);
-            transform.rotation *= Quaternion.Euler(0, Input.GetAxis("Mouse X") * lookSpeed, 0);
+            transform.rotation *= Quaternion.Euler(0, (Input.GetAxis("Mouse X") + Input.GetAxis("JoystickX")) * lookSpeed, 0);
         }
     }
 }
