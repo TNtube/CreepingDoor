@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1d49b8941a0ac57409a4209ffa69c7fa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298957
+  packageName: Editor Emojis
+  packageVersion: 1.0
+  assetPath: Assets/Editor Emojis/Editor/Presenters/SymbolsPresenter.cs
+  uploadId: 700264

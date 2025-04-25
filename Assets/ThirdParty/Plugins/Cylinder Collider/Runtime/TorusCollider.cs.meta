@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ce95545e978d4614905ee21171ca6c27
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 23e1e774bd823424a9aa3817d87ad09e, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280705
+  packageName: Cylinder Collider v2
+  packageVersion: 2.5
+  assetPath: Assets/Cylinder Collider/Runtime/TorusCollider.cs
+  uploadId: 729408

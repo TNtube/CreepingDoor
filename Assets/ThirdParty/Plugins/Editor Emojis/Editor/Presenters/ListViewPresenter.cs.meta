@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 45b254da7685c6a44b3f7b5751a0af28
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298957
+  packageName: Editor Emojis
+  packageVersion: 1.0
+  assetPath: Assets/Editor Emojis/Editor/Presenters/ListViewPresenter.cs
+  uploadId: 700264

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 53fa1ddde4cd7194292d8151d7fdf55f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 36cb3251ce3fdaa4f912b5ce35f48599, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 280705
+  packageName: Cylinder Collider v2
+  packageVersion: 2.5
+  assetPath: Assets/Cylinder Collider/Runtime/CylinderCollider.cs
+  uploadId: 729408

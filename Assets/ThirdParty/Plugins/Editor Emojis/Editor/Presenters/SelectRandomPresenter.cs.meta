@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0884a1b79fd312f44befa4a7dc530c36
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298957
+  packageName: Editor Emojis
+  packageVersion: 1.0
+  assetPath: Assets/Editor Emojis/Editor/Presenters/SelectRandomPresenter.cs
+  uploadId: 700264

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0c9d00dd31b131c4a88ca71051c6645f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 222791
+  packageName: Exclude From Build
+  packageVersion: 1.6.3
+  assetPath: Assets/ExcludeFromBuild/ExcludeFromBuildComponent.cs
+  uploadId: 735049

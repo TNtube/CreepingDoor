@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 90205517574ce6d44874df8d6ff2b5f5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298957
+  packageName: Editor Emojis
+  packageVersion: 1.0
+  assetPath: Assets/Editor Emojis/Editor/Presenters/ColorPickerPresenter.cs
+  uploadId: 700264
